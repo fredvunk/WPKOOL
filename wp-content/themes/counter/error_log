@@ -1,0 +1,8 @@
+[07-Dec-2018 07:38:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/fredvunkiktkhk/public_html/wordpress/wp-content/themes/counter/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fredvunkiktkhk/public_html/wordpress/wp-content/themes/counter/index.php on line 8
+[07-Dec-2018 07:38:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/fredvunkiktkhk/public_html/wordpress/wp-content/themes/counter/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/fredvunkiktkhk/public_html/wordpress/wp-content/themes/counter/index.php on line 8
