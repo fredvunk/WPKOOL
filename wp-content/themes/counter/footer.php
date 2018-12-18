@@ -10,7 +10,11 @@
 	</div><!-- #main -->
 
 	<footer id="colophon" class="site-footer" role="contentinfo">
-		
+		<p>
+			Fred Vunk
+			Fred.vunk@khk.ee
+			Kopli 1, Tartu
+		</p>
 		<?php get_template_part( 'template-parts/widgets-footer' ); ?>
 
 		<div class="site-info">
